@@ -60,8 +60,20 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![image](https://github.com/user-attachments/assets/dfb495aa-2118-4abb-9846-4bcbf9177afb)
+
+![image](https://github.com/user-attachments/assets/59fc23e2-0cb4-44c5-b1af-b9d52167ed0d)
+
+![image](https://github.com/user-attachments/assets/4a9749e4-6be0-423a-8978-816efcfade87)
+
+![image](https://github.com/user-attachments/assets/07de5c1e-9f45-47e1-a21b-f1c031963994)
+
+![image](https://github.com/user-attachments/assets/16448680-e2a2-421c-9e4f-8feb9190936a)
+
+
+
+### Name: Lakshanya N
+### Register Number: 24900253
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
